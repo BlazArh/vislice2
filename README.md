@@ -4,7 +4,7 @@
 
 * Blaž Arh
 * Anja Petković
-* Matija Pretnar
+* Adi Smolar
 
 ## Opis
 
