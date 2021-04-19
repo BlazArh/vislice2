@@ -4,7 +4,6 @@
 
 * Blaž Arh
 * Anja Petković
-* Adi Smolar
 
 ## Opis
 
